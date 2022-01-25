@@ -1,0 +1,17 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    text-align: center;
+}
+#formulario{
+    border: 0.1px solid gray;
+    border-radius: 20px;
+    animation-delay: 0.5s;
+}
+.container{
+    animation-delay: 0.5s;
+}
+body{
+    margin: 0;
+    padding: 10px;
+}
